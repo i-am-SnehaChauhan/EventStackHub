@@ -34,19 +34,15 @@ One cool feature is that you can buy tickets for these events directly through t
 But it's not just about attending events – you can also create and manage your own events using this app. So, whether you're throwing a party or hosting a webinar, you can handle everything from planning to ticketing, all in one place.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
-<div>
-  
-
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Node_JS-green">
-  <img src="https://img.shields.io/badge/-Next_JS_14-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Stripe-black?style=for-the-badge&logoColor=white&logo=stripe&color=008CDD" alt="stripe" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/-tailwindcss-blue">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Zod-Purple">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-React_Hook_Form-Blue">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Shadcn-Black?style=flat-square">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Uploadthing-Black">=
-</div>
+- Node.js
+- Next.js
+- TypeScript
+- TailwindCSS
+- Stripe
+- Zod
+- React Hook Form
+- Shadcn
+- uploadthing
 
 
 ## <a name="features">🔋 Features</a>
